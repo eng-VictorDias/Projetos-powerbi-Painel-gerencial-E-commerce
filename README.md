@@ -1,14 +1,14 @@
 
-# Painel Gerencial de um E-commerce
+# 📊 Painel Gerencial de um E-commerce
 
 Este projeto consiste na criação de um painel gerencial interativo, projetado para ser uma ferramenta indispensável para gestores de e-commerce. Ele oferece uma visão centralizada e abrangente das principais métricas de desempenho, permitindo que decisões estratégicas sejam tomadas com base em dados precisos e atualizados.
 
 
-## Objetivos
+# Objetivos
 Realizar a análise de produtos, categorizando os produtos mais vendidos. Apresntar a margem de lucro dos itens vendidos, por categoria de produtos.
 
 Para a previsibilidade de tendências e Crescimento nas vendas, foi necessário realizar a visualização da evolução das vendas ao longo do tempo. Identificando padrões e sazonalidades.
-## Tarefas do Projeto
+# Tarefas do Projeto
 
     1.	Entendimento dos dados
     2.	Entendimento das tabelas
@@ -23,6 +23,6 @@ Para a previsibilidade de tendências e Crescimento nas vendas, foi necessário 
     11.	Faturamento ao longo do tempo e previsão para os próximos 3 meses
 
 ## Tecnologias Utilizadas
-Ferramentas de Business Intelligence: Power BI/Excel.
 
-Integrações com banco de dados para extração e transformação de dados (ETL).
+
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
